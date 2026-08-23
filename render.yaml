@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ed825-irb-readiness-center
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
